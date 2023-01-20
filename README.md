@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 </a>  
 </div>
 
-<h3 align="left">🐦 Latest Tweet</h3>
+## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=firexserv)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/firexsantos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vvbbvb" /></a></p><br><br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dfdfdd) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dfdf) 
