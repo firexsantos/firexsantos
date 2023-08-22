@@ -25,9 +25,5 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
 </a>  
 </div>
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=firexserv)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/firexsantos) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/firexserv) 
