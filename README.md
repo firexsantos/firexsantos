@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <blockquote>
-<p dir="auto">Magister of Computer Science ╎ Lecturer at Rokania University ╎ Founder of KepoIT ╎ Professional Web Developer</p>
+<p dir="auto">Magister of Computer Science ╎ Lecturer at Rokania University ╎ Founder of Rajacoding ╎ Professional Web Developer</p>
 </blockquote>
 <h4 align="left">Connect with me:</h4>
 <div align="left" dir="auto">
